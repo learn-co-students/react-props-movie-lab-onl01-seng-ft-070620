@@ -1,6 +1,6 @@
 # React Props Movie Lab
 
-## Objectives
+## Objectives 
 
 - Practice passing props from parent components to children
 - Practice using default props
